@@ -5,13 +5,22 @@ Primary: #eb2f64
 Primary light: #FF3366
 Primary dark: #BA265D
 
-Grey light 1: #faf9f9
-Grey light 2: #f4f2f2
-Grey light 3: #f0eeee
-Grey light 4: #ccc
+Gray light 1: #faf9f9
+Gray light 2: #f4f2f2
+Gray light 3: #f0eeee
+Gray light 4: #ccc
 
-Grey dark 1: #333
-Grey dark 2: #777
-Grey dark 3: #999
+Gray dark 1: #333
+Gray dark 2: #777
+Gray dark 3: #999
 
 */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #eb2f64;
+}
